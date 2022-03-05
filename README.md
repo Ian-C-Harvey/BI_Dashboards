@@ -1,5 +1,5 @@
 # Dashboarding_Projects
-SQL, Tableau, Power BI 
+Tableau, Power BI 
 
 https://app.powerbi.com/reportEmbed?reportId=f73a13af-04a7-43f0-9d4d-3813781eef95&autoAuth=true&ctid=70de1992-07c6-480f-a318-a1afcba03983&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtaC1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
 
