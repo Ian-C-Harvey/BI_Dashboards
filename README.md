@@ -1,6 +1,7 @@
 # Dashboarding_Projects
 Tableau, Power BI 
 
+Sales retail data project:
 https://app.powerbi.com/reportEmbed?reportId=f73a13af-04a7-43f0-9d4d-3813781eef95&autoAuth=true&ctid=70de1992-07c6-480f-a318-a1afcba03983&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtaC1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
 
 Running total of Male to Female Employees: https://public.tableau.com/views/TableauandSQLExercise1/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
