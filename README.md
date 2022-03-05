@@ -1,5 +1,5 @@
 # Dashboarding_Projects
-Power Bi Dashboard can only be shared in PDF or Powerpoint. 
+Power Bi Dashboard can only be shared in PDF or Powerpoint. It took three months to make the Sales Retail Data dashboard. 
 
 Tableau dashboards: 
 Running total of Male to Female Employees: https://public.tableau.com/views/TableauandSQLExercise1/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
