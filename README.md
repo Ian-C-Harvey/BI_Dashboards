@@ -5,12 +5,14 @@ Powerbi:
 Dashboard 1 
 Financial Analysis of a fictitious retail company (Income). This dashboard was a guided tutorial: 
 Source: https://corporatefinanceinstitute.com/ 
+
 Completed Dashboard: 
 https://app.powerbi.com/view?r=eyJrIjoiMzVhNjA1ZjMtZWE2Yy00YWNlLWIwMGYtMTM1M2YyODVlMTdhIiwidCI6IjdiYjg0M2I2LWJjZDAtNGEzYy04MDhiLTJjNjVjODM2NmE2ZSJ9&pageName=ReportSectionb35bb2f6c2cd8fc689b4 
 
 Dashboard 2 
 Analysis of bank credit card customer spending by educational level: 
 Source: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers?resource=download 
+
 Completed Dashboard: 
 https://app.powerbi.com/view?r=eyJrIjoiNjkzMmYwMzAtYWY3NS00NzU4LTkzMTUtMThkM2NhZjZhMzYwIiwidCI6IjdiYjg0M2I2LWJjZDAtNGEzYy04MDhiLTJjNjVjODM2NmE2ZSJ9 
 
