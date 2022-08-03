@@ -20,6 +20,5 @@ CROSS JOIN t_dept_manager dm
 JOIN t_departments d ON dm.dept_no = d.dept_no 
 JOIN t_employees ee ON dm.emp_no = ee.emp_no  
 ORDER BY dm.emp_no, calendar_year;
--- This can be done without the subquery and the CROSS JOIN by changing the FROM statement.
--- The GROUP BY in the FROM statement eliminates the duplicates.  
--- Order of operations: FROM & JOIN, WHERE, GROUP BY, HAVING, SELECT & TOP, ORDER BY, UNION  
+-- Database is Adventure Works
+-- This was used for one of the Tableau dashboards I created.
