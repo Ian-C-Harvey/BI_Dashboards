@@ -8,17 +8,22 @@ Source: https://corporatefinanceinstitute.com/
 
 Completed Dashboard: 
 https://app.powerbi.com/view?r=eyJrIjoiMzVhNjA1ZjMtZWE2Yy00YWNlLWIwMGYtMTM1M2YyODVlMTdhIiwidCI6IjdiYjg0M2I2LWJjZDAtNGEzYy04MDhiLTJjNjVjODM2NmE2ZSJ9&pageName=ReportSectionb35bb2f6c2cd8fc689b4 
+------------
 
 Dashboard 2 
 Analysis of bank credit card customer spending: 
 Source: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers?resource=download 
 
-Dashboard 3
-Source: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting 
-Work in Progress
-
 Completed Dashboard: 
 https://app.powerbi.com/view?r=eyJrIjoiNjkzMmYwMzAtYWY3NS00NzU4LTkzMTUtMThkM2NhZjZhMzYwIiwidCI6IjdiYjg0M2I2LWJjZDAtNGEzYy04MDhiLTJjNjVjODM2NmE2ZSJ9 
+------------
+
+Dashboard 3
+Source: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting 
+
+Work in Progress
+------------
+
 
 Tableau:
 
