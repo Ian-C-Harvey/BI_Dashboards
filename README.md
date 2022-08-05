@@ -1,7 +1,9 @@
 Power BI:
 
 Dashboard 1 
+
 #Financial Analysis of a fictitious retail company (Income). This dashboard was a guided tutorial: 
+
 #Source: https://corporatefinanceinstitute.com/ 
 
 Completed Dashboard: 
@@ -11,6 +13,7 @@ Completed Dashboard:
 
 Dashboard 2 
 #Analysis of bank credit card customer spending: 
+
 #Source: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers?resource=download 
 
 Completed Dashboard: 
@@ -19,6 +22,7 @@ Completed Dashboard:
 #------------
 
 Dashboard 3
+
 #Source: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting 
 
 Work in Progress
