@@ -1,6 +1,4 @@
-Dashboards
-
-#Powerbi:
+Power BI:
 
 Dashboard 1 
 #Financial Analysis of a fictitious retail company (Income). This dashboard was a guided tutorial: 
