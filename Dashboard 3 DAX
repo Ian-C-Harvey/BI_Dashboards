@@ -1,1 +1,4 @@
-
+Date Table:
+DatesTable = CALENDAR(MINX (Sales, Sales[Order Date]), MAXX (Sales, Sales[Ship Date]))
+Index = RANKX(DatesTable, DatesTable[Date],,ASC)
+Year = YEAR(DatesTable[Date]) 
