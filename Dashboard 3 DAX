@@ -5,3 +5,8 @@ Year = YEAR(DatesTable[Date])
 
 Creating shipping Related Cost:
 ShippingFee = ABS(3)
+
+if [Ship Mode] = "First Class" then 20
+else if [Ship Mode] = "Second Class" then 25.94
+else if [Ship Mode] = "Same Day" then 41.45
+else 11.71 
