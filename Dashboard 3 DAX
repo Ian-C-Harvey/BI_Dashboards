@@ -16,7 +16,7 @@ else 11.71
 
 UnitsSold = RANDBETWEEN(14,40) //Making up units sold
 Revenue = SUMX(Sales, Sales[Sales] * Sales[UnitsSold])
-Revenue Filtered by Category = [Revenue] / CALCULATE ([Revenue], ALLSELECTED ('Sales'[Category],'Sales'[Sub-Category]))
-// ALLSELECTED allows a filter outside of the visual to make changes to these two columns.
+Percentage of Revenue for Each Category = [Revenue] / CALCULATE ([Revenue], ALLSELECTED ('Sales'[Category]))
+// ALLSELECTED allows a filter outside of the visual to make changes to the category column will remvoing any context inside the query.
 
 # Time Measures:
