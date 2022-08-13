@@ -24,6 +24,8 @@ Completed Dashboard:
 
 Dashboard 3
 
+#Sales
+
 #Source: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales 
 
 Work in progress:
