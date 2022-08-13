@@ -26,7 +26,8 @@ Dashboard 3
 
 #Source: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales 
 
-Work in progress
+Work in progress:
+https://app.powerbi.com/view?r=eyJrIjoiNmFjYTEyZmYtZTZhMS00OTU5LWI5MGMtNzRjNjdlMjUwZDRlIiwidCI6IjdiYjg0M2I2LWJjZDAtNGEzYy04MDhiLTJjNjVjODM2NmE2ZSJ9
 
 #------------
 
