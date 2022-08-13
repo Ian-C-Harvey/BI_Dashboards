@@ -2,7 +2,7 @@ Power BI:
 
 Dashboard 1 
 
-#Financial Analysis of a fictitious retail company (Income). This dashboard was a guided tutorial: 
+#Financial Analysis of a fictitious retail company. This dashboard was a guided tutorial: 
 
 #Source: https://corporatefinanceinstitute.com/ 
 
@@ -24,7 +24,7 @@ Completed Dashboard:
 
 Dashboard 3
 
-#Sales
+#Income and & Products
 
 #Source: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales 
 
