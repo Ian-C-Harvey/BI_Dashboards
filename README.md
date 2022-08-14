@@ -28,7 +28,7 @@ Dashboard 3
 
 #Source: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales 
 
-Work in progress:
+Completed Dashboard:
 https://app.powerbi.com/view?r=eyJrIjoiNmFjYTEyZmYtZTZhMS00OTU5LWI5MGMtNzRjNjdlMjUwZDRlIiwidCI6IjdiYjg0M2I2LWJjZDAtNGEzYy04MDhiLTJjNjVjODM2NmE2ZSJ9&pageName=ReportSection
 
 #------------
@@ -40,8 +40,4 @@ Running total of Male to Female Employees: https://public.tableau.com/views/Tabl
 
 Gender Based on Hire Year for Active Department Managers: https://public.tableau.com/views/CombingSQLandTableauTask2/Chart2?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Resources to learn DAX:
-
-https://www.udemy.com/course/power-bi-dax/
-
-https://community.powerbi.com/t5/Data-Stories-Gallery/DAX-Reference-Cheat-Sheet/m-p/2151441
+Resources to learn DAX: https://www.udemy.com/course/power-bi-dax/ & https://community.powerbi.com/t5/Data-Stories-Gallery/DAX-Reference-Cheat-Sheet/m-p/2151441
