@@ -2,7 +2,7 @@ Power BI:
 
 Dashboard 1 
 
-#Financial Analysis of Retail Company (Guided)
+#Financial Analysis Retail Company (Guided)
 
 #Source: https://corporatefinanceinstitute.com/ 
 
@@ -11,7 +11,15 @@ Completed Dashboard:
 
 #------------
 
-Dashboard 2 
+Dashboard 2
+
+#Financial Analysis & Statements
+
+#Source: https://www.udemy.com/course/power-bi-for-financial-reporting-and-financial-analysis/
+
+#------------
+
+Dashboard 3 
 
 #Bank Credit Card Spending (Self Made): 
 
@@ -22,7 +30,7 @@ Completed Dashboard:
 
 #------------
 
-Dashboard 3
+Dashboard 4
 
 #Income and & Products (Self Made):
 
