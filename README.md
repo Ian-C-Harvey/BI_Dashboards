@@ -2,7 +2,7 @@ Power BI:
 
 Dashboard 1 
 
-#Financial Analysis Retail Company (Guided)
+#Financial Analysis Retail Company
 
 #Source: https://corporatefinanceinstitute.com/ 
 
@@ -17,11 +17,12 @@ Dashboard 2
 
 #Source: https://www.udemy.com/course/power-bi-for-financial-reporting-and-financial-analysis/
 
+In Progress
 #------------
 
 Dashboard 3 
 
-#Bank Credit Card Spending (Self Made): 
+#Bank Credit Card Spending 
 
 #Source: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers?resource=download 
 
