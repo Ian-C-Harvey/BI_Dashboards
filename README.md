@@ -2,20 +2,20 @@ Power BI:
 
 Dashboard 1 
 
-#Financial Analysis Retail Company
+#Retail Sales & Income
 
-#Source: https://corporatefinanceinstitute.com/ 
+#Data Source: https://corporatefinanceinstitute.com/ 
 
 Completed Dashboard: 
 #https://app.powerbi.com/view?r=eyJrIjoiMzVhNjA1ZjMtZWE2Yy00YWNlLWIwMGYtMTM1M2YyODVlMTdhIiwidCI6IjdiYjg0M2I2LWJjZDAtNGEzYy04MDhiLTJjNjVjODM2NmE2ZSJ9&pageName=ReportSectionb35bb2f6c2cd8fc689b4 
 
 #------------
 
-Dashboard 2
+Dashboard 2 (Most recent)
 
-#Financial Analysis & Statements
+#Financial Analysis & Financial Statements
 
-#Source: https://www.udemy.com/course/power-bi-for-financial-reporting-and-financial-analysis/
+#Data Source: https://www.udemy.com/course/power-bi-for-financial-reporting-and-financial-analysis/
 
 In Progress
 #------------
@@ -24,7 +24,7 @@ Dashboard 3
 
 #Bank Credit Card Spending 
 
-#Source: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers?resource=download 
+#Data Source: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers?resource=download 
 
 Completed Dashboard: 
 #https://app.powerbi.com/view?r=eyJrIjoiNjkzMmYwMzAtYWY3NS00NzU4LTkzMTUtMThkM2NhZjZhMzYwIiwidCI6IjdiYjg0M2I2LWJjZDAtNGEzYy04MDhiLTJjNjVjODM2NmE2ZSJ9 
@@ -33,9 +33,9 @@ Completed Dashboard:
 
 Dashboard 4
 
-#Income and & Products (Self Made):
+#Income and & Products
 
-#Source: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales 
+#Data Source: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales 
 
 Completed Dashboard:
 https://app.powerbi.com/view?r=eyJrIjoiNmFjYTEyZmYtZTZhMS00OTU5LWI5MGMtNzRjNjdlMjUwZDRlIiwidCI6IjdiYjg0M2I2LWJjZDAtNGEzYy04MDhiLTJjNjVjODM2NmE2ZSJ9&pageName=ReportSection
