@@ -1,0 +1,33 @@
+Sales:
+Total of Sales = sum(SalesFactTable[Sales])
+SumTargetSales = SUM('Cost and target sales'[TargetSales])
+Sales Previous Year = CALCULATE(SalesFactTable[Total of Sales],SAMEPERIODLASTYEAR('Date'[Dates]))
+SalesShare = 
+o	var TotalSales = calculate([Total of Sales],ALL(SalesFactTable[Group & Dept]))
+o	Var SalesShare = [Total of Sales] / TotalSales
+Return SalesShare 
+YoY Sales Growth $ = SalesFactTable[Total of Sales] - [Sales Previous Year]
+Sales YoY Growth % = ([Total of Sales] / SalesFactTable[Sales Previous Year]) – 1
+
+Gross Margin :
+GM$ = SUMX(SalesFactTable,[Sales]*[Margin]) 
+COS = [Total of Sales] - [GM$] 
+GM% = [GM$] / [Total of Sales]
+GM Growth YoY % = [GM%] - calculate([GM%],SAMEPERIODLASTYEAR('Date'[Dates]))
+GMav = sumx(SalesFactTable,SalesFactTable[Margin]*SalesFactTable[Sales])/sum(SalesFactTable[Sales])
+
+Cost:
+OtherCosts = 
+o	var TotalOpsCost = calculate(sum('Cost and target sales'[Rent]) + sum('Cost and target sales'[Wages]),StoreDetails[StoreID]=99)
+o	Var TotalSales = Calculate([Total of Sales],ALL(Storedetails)) 
+o	var OpsCost = TotalOpsCost * ([Total of Sales]/TotalSales)
+return OpsCost
+SumAllRent = sum('Cost and target sales'[Rent])
+SumAllWages = sum('Cost and target sales'[Wages])
+SumRent = CALCULATE(Sum('Cost and target sales'[Rent]),FILTER(StoreDetails,StoreDetails[StoreID]<>99))
+SumWages = CALCULATE(SUM('Cost and target sales'[Wages]),FILTER('Cost and target sales','Cost and target sales'[StoreID]<>99))
+
+EBIT:
+EBIT = [GM$] - ([SumRent] + [Sumwages] + [OtherCosts])
+EBIT% = 'Cost and target sales'[EBIT]/SalesFactTable[Total of Sales]
+EBIT Growth YoY = [EBIT%] - CALCULATE([EBIT%],SAMEPERIODLASTYEAR('Date'[Dates]))
