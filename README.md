@@ -21,6 +21,8 @@ Dashboard 2 (Most recent)
 
 Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMDVjODU1MzAtMDk1NS00ODgxLTlhODUtMzU3ZTVlOWU0ZGZhIiwidCI6IjdiYjg0M2I2LWJjZDAtNGEzYy04MDhiLTJjNjVjODM2NmE2ZSJ9
 
+Download Link to see the DAX: https://1drv.ms/u/s!AtHUKXziTOvfgb53gPqhA33tnX8_nQ?e=5FsZT9
+
 #------------
 
 Dashboard 3 
