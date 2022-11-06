@@ -1,5 +1,7 @@
 Power BI:
 
+#------------
+
 Dashboard 1 
 
 #Retail Sales & Income
