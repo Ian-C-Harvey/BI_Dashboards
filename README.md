@@ -13,11 +13,11 @@ Completed Dashboard:
 
 Dashboard 2 (Most recent)
 
-#Financial Analysis & Financial Statements
+#Sales, Income & Balance Sheet
 
 #Data Source: https://www.udemy.com/course/power-bi-for-financial-reporting-and-financial-analysis/
 
-In Progress
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMDVjODU1MzAtMDk1NS00ODgxLTlhODUtMzU3ZTVlOWU0ZGZhIiwidCI6IjdiYjg0M2I2LWJjZDAtNGEzYy04MDhiLTJjNjVjODM2NmE2ZSJ9
 #------------
 
 Dashboard 3 
