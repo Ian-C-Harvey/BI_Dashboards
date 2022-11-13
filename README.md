@@ -4,7 +4,7 @@ Power BI:
 
 Dashboard 1 
 
-#Retail Sales & Income
+#Retail Sales & Income, very shiny
 
 #Data Source: https://corporatefinanceinstitute.com/ 
 
@@ -13,21 +13,21 @@ Completed Dashboard:
 
 #------------
 
-Dashboard 2 (Most recent)
+Dashboard 2
 
-#Sales, Income & Balance Sheet
+#Sales, Income & Balance Sheet, Metrics
 
 #Data Source: https://www.udemy.com/course/power-bi-for-financial-reporting-and-financial-analysis/
 
 Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMDVjODU1MzAtMDk1NS00ODgxLTlhODUtMzU3ZTVlOWU0ZGZhIiwidCI6IjdiYjg0M2I2LWJjZDAtNGEzYy04MDhiLTJjNjVjODM2NmE2ZSJ9
 
-Download Link to see the DAX: https://1drv.ms/u/s!AtHUKXziTOvfgb53gPqhA33tnX8_nQ?e=5FsZT9
+Download Link to see the DAX, lots of DAX: https://1drv.ms/u/s!AtHUKXziTOvfgb53gPqhA33tnX8_nQ?e=5FsZT9
 
 #------------
 
 Dashboard 3 
 
-#Bank Credit Card Spending 
+#Bank Credit Card Spending, Descriptive Statistics 
 
 #Data Source: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers?resource=download 
 
@@ -38,7 +38,7 @@ Completed Dashboard:
 
 Dashboard 4
 
-#Income and & Products
+#Income and & Products Sales
 
 #Data Source: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales 
 
