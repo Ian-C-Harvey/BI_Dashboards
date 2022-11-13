@@ -4,7 +4,7 @@ Power BI:
 
 Dashboard 1 
 
-#Retail Sales & Income, very shiny
+#Retail Sales & Income, Very Shiny
 
 #Data Source: https://corporatefinanceinstitute.com/ 
 
